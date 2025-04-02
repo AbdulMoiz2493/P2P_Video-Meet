@@ -38,6 +38,10 @@ Video Meet is a peer-to-peer (P2P) video conferencing web application built usin
 
 4. **Run both frontend and backend**:
    ```sh
+   cd client
+   npm run dev
+
+   cd server
    npm run dev
    ```
 
